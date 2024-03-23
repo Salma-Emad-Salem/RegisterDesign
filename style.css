@@ -392,6 +392,7 @@ header{
     .wrapper{
         max-width: 300px;
         max-height: 340px;
+        background-color: #ffffff81;
         backdrop-filter: blur(10px);
         transition:transform .5s ease , height .2s ease;
         transform: scale(0);
@@ -457,6 +458,7 @@ header{
     
     }
     .wrapper{
+        background-color: #ffffff81;
         transition:transform .5s ease , height .2s ease;
         transform: scale(0);
     }
