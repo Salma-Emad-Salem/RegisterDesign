@@ -390,10 +390,9 @@ header{
         padding-inline: 20px;
     }
     .wrapper{
-        margin-top: 60px;
         max-width: 300px;
         max-height: 340px;
-        backdrop-filter: blur(50px);
+        backdrop-filter: blur(10px);
         transition:transform .5s ease , height .2s ease;
         transform: scale(0);
     }
